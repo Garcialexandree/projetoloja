@@ -17,6 +17,7 @@ O **Empório Colonial** é uma aplicação front-end simples desenvolvida com HT
 * ✅ Finalização do pedido via WhatsApp
 * ✅ Interface responsiva
 * ✅ Efeito visual (hover, parallax e animações)
+* 
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -73,7 +74,7 @@ https://wa.me/SEU_NUMERO
 ## 👨‍💻 Autor
 
 Desenvolvido por você 🚀
-
+Acesse o link emperiocolonial.netlify.app
 ---
 
 ⭐ Se gostou do projeto, não esqueça de dar uma estrela no repositório!
